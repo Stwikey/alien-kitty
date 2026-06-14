@@ -8,3 +8,21 @@ With a 16x2 LCD for its eyes, a vibration motor for purring, an arduino UNO R3 f
 Why not? We looked around and realized our desks are super messy, why not add more to the mess and have a little desk pet. The alien kitty design was just a random idea! It was also a good excuse to use components that we haven't used before and to design something that looks cute. 
 
 <img width="1360" height="1094" alt="image" src="https://github.com/user-attachments/assets/d4afee2b-8b16-458d-a50b-ff31f96c2693" />
+
+# Credits
+
+Useful websites that helped make this possible:
+
+https://docs.arduino.cc/learn/electronics/lcd-displays/ 
+
+https://chareditor.com/
+
+https://www.build-electronic-circuits.com/arduino-rotary-encoder/
+
+Electronic CAD models used:
+
+[Arduino UNO](https://www.printables.com/model/358867-arduino-uno-3d-model-stp/files) By: Ludvig Broomé
+
+[LCD 16x2](https://www.printables.com/model/1235460-1602a-display-model) By: Даниил Неважно
+
+[Rotary Encoder](https://grabcad.com/library/ec11-rotary-encoder-with-switch-1) By: Anthony Berkow
