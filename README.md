@@ -1,5 +1,10 @@
 # Alien Kitty
+
+<img width="469" height="666" alt="Screenshot 2026-06-14 at 9 53 04 PM" src="https://github.com/user-attachments/assets/73273596-0aba-4697-97c6-eb456ecbf2e8" />
+
 Have you ever wanted a cute little pet on your desk? Now you can with a cute little kitty from outer space. You can pet it by pushing its head down and it'll purr using a vibration motor! Using a rotary encoder you can turn its head around, be careful you don't wanna turn a full 360 or else the kitty might start to feel uncomfortable. It's eyes change when you pet it using an LCD.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f2b6f8b-ebd0-4eff-94ff-200b1b1b1b41" />
 
 # How its made
 With a 16x2 LCD for its eyes, a vibration motor for purring, an arduino UNO R3 for the brains, and a rotary encoder to turn its head and act as a button. The rest is 3D printed, 4 screws to hold the LCD in place, everything else is either a snap connection or attached when printing. 
