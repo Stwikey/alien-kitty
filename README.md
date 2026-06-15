@@ -1,6 +1,6 @@
 # Alien Cat
 
-<img width="469" height="666" alt="Screenshot 2026-06-14 at 9 53 04 PM" src="https://github.com/user-attachments/assets/73273596-0aba-4697-97c6-eb456ecbf2e8" />
+<img width="379" height="528" alt="Screenshot 2026-06-15 at 9 47 17 AM" src="https://github.com/user-attachments/assets/0852f79c-9c02-48dc-a86b-cdcc1ab5f3af" />
 
 Have you ever wanted a cute little pet on your desk? Now you can with a cute little cat from outer space. You can pet it by pushing its head down and it'll purr using a vibration motor! Using a rotary encoder you can turn its head around, be careful you don't wanna turn a full 360 or else the cat might start to feel uncomfortable. It's eyes change when you pet it using an LCD.
 
