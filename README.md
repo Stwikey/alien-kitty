@@ -4,6 +4,9 @@ Have you ever wanted a cute little pet on your desk? Now you can with a cute lit
 # How its made
 With a 16x2 LCD for its eyes, a vibration motor for purring, an arduino UNO R3 for the brains, and a rotary encoder to turn its head and act as a button. The rest is 3D printed, 4 screws to hold the LCD in place, everything else is either a snap connection or attached when printing. 
 
+# How to use
+Alien kitty is easy to use! Leave it on your desk and if you want you can pet it. It's to put simply a desk decoration. You can turn its head around, or press down on its head and it will respond! Twist its head too much and it might get dizzy, but if you pet it (push down) it'll become happy and start purring! 
+
 # Why it was made?
 Why not? We looked around and realized our desks are super messy, why not add more to the mess and have a little desk pet. The alien kitty design was just a random idea! It was also a good excuse to use components that we haven't used before and to design something that looks cute. 
 
