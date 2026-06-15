@@ -41,6 +41,10 @@ Why not? We looked around and realized our desks are super messy, why not add mo
 
    There is a slot at the base of the cat head to thread wires through. After you are done you can place the cat head direction on top of the rotary encoder.     At the bottom of the cat head there is a spot for it, align it with the grooves for a nice fit.
 
+5. firmware
+
+connect your device to the arduino through a USB cable and run the code on Arduino IDE!
+
 once everything has been placed you now have a alien desktop kitty! push on its head to activate the rotary encoder switch for head pads, twist its head for it to change expressions on the lcd eyes and listen to it purr through the vibration motor
   
 Optional steps:
