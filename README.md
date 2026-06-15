@@ -15,7 +15,36 @@ Alien Cat is easy to use! Leave it on your desk and if you want you can pet it. 
 # Why it was made?
 Why not? We looked around and realized our desks are super messy, why not add more to the mess and have a little desk pet. The alien cat design was just a random idea! It was also a good excuse to use components that we haven't used before and to design something that looks cute. 
 
+# Schematic 
 <img width="1360" height="1094" alt="image" src="https://github.com/user-attachments/assets/d4afee2b-8b16-458d-a50b-ff31f96c2693" />
+
+# How to assemble
+1. The star
+   The star comes in two pieces, the "lid" and the star itself. The lid of the star is a thin piece of plastic that should go on the bottom (contrary to the name!). Place your Arduino UNO R3, and batteries on top and then place the star on top.
+
+   <img width="697" height="363" alt="Screenshot 2026-06-14 at 11 30 19 PM" src="https://github.com/user-attachments/assets/9bb26955-a48d-4164-8f55-a2d8eff67692" />
+
+   <img width="626" height="298" alt="Screenshot 2026-06-14 at 11 28 06 PM" src="https://github.com/user-attachments/assets/1bfebae5-479c-4ee0-a044-489c72bf7945" />
+
+2. The body
+   Here it gets a little more difficult! Place the vibration motor and rotary encoder in their respective spots on the top of the body. The vibration motor should fit in the cut out circle spot while the rotary encoder sits in the middle. Connect the wiring for the vibration motor and the rotary encoder by threading the wires through the body. Then you can connect them via the hole in the star and hole at the base of the cat!
+
+   The body is in two pieces, you can put them together after assembling the electronics with adhesive! 
+
+   <img width="283" height="223" alt="Screenshot 2026-06-14 at 11 33 17 PM" src="https://github.com/user-attachments/assets/5066b028-4aa1-492a-80f0-8afaa5a8195b" />
+   
+  
+4. The head
+   Another tricky part! Screw in the LCD in the respective slot! The LCD should face outwards and pointing at the hollow holes in the cat face. The head is similar to the body and is in two pieces, you can put them together after assembling the electronics with adhesive! 
+
+   <img width="371" height="305" alt="Screenshot 2026-06-14 at 11 35 51 PM" src="https://github.com/user-attachments/assets/9a2a7cb3-1e69-49d5-ba44-c2afd74e2097" />
+
+   There is a slot at the base of the cat head to thread wires through. After you are done you can place the cat head direction on top of the rotary encoder.     At the bottom of the cat head there is a spot for it, align it with the grooves for a nice fit.
+
+Optional steps:
+
+Feel free to sand, prime, and paint the alien kitty. This doesn't serve any functional purpose and is purely cosmetic. 
+   
 
 # BOM 
 |       | Product Description        |   | Unit Price (CAD) | Qty | Total (CAD) | Product Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
